@@ -16,6 +16,8 @@ if nargin == 4
     exec = true;
 end
 
+% Check if Vector R has a length of 1!
+
 
 if exec == true
     out = zeros(3);
